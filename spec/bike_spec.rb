@@ -1,4 +1,4 @@
 
-describe Bike do
-  
+RSpec.describe Bike do
+
 end
