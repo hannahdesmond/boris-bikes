@@ -1,7 +1,5 @@
-require 'bike.rb'
+require 'bike'
 
-RSpec.describe Bike do
-  it 'checks if the bike is working' do
-    expect('bike').to respond_to.working?
+describe Bike do
+    it { is_expected.to respond_to(:working?) }
   end
-end
