@@ -9,5 +9,4 @@ Let's go back several years, to the days when there were no Boris Bikes. Imagine
 
 [Week 1 Summary and Reflections](https://github.com/hannahdesmond/portfolio/blob/main/goals/weekly/week-1.md)
 
-My pair partners and I got to section 11. Please see commits. 
 
