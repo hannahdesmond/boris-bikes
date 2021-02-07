@@ -7,6 +7,8 @@ Let's go back several years, to the days when there were no Boris Bikes. Imagine
 
 [Full Brief](https://github.com/makersacademy/course/tree/master/boris_bikes)
 
+[Project Summary](https://github.com/hannahdesmond/portfolio/blob/main/projects/boris-bikes.md)
+
 [Week 1 Summary and Reflections](https://github.com/hannahdesmond/portfolio/blob/main/goals/weekly/week-1.md)
 
 
